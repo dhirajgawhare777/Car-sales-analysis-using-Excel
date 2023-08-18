@@ -1,0 +1,23 @@
+**********************************************************
+***************Car sales analysis using Excel*************
+**********************************************************
+
+EVERYTHING ABOUT THE PROJECT LIKE DATA, GRAPHS, COMPARISION ARE GIVEN IN THE EXCEL SHEET ITSELF
+
+==> Follow these points to better understand the project 
+
+
+1) Car Sale Sheet Contains :
+-->  Data of Year, Month, Date, Model, Dealer, ID, Quantity, Sold, Profit of that Particular Car
+
+2) sheet_1 contain data and graph between "Dealer ID" v/s "Sum of Quantity Sold"
+
+3) Shee_2 contains data of "Sum of Profit Date"	"Model Beaufort"  "Champlain" "Hudson" "Labrador" "Salish" "Grand Total"  and contains a graph between Profit v/v date v/s model
+
+4) Sheet_3 contains data of "Sum of Profit" "Dealer ID" and "Year"and have  grraph of Dealer ID v/s Sum of Profit
+
+4) Sheet_3 contains data of "Sum of Profit" "Dealer ID" and "model" also it given a graph between Hudson models by dealer ID vs Profit
+
+
+
+
